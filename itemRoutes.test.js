@@ -4,7 +4,7 @@ const request = require("supertest");
 
 const app = require("./app");
 let items = require("./fakeDb");
-// const { default: test } = require("node:test");
+
 
 
 let favoriteCandy = { "name": "SwedishFish", "price": 1.99 }
