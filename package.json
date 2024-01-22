@@ -1,0 +1,19 @@
+{
+  "name": "express_shopping_list",
+  "version": "1.0.0",
+  "description": "For an exercise.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Adam Maurasse",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "supertest": "^6.3.4"
+  }
+}
